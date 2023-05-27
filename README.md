@@ -16,6 +16,6 @@ After ensuring that the requirements mentioned above are met, follow the steps b
 
 ```
 $ Clone this repository: git clone https://github.com/EduardoBezerraDev/Real-time-track
-$ Open the folder (Real-time-track) and execute "yarn install"
+$ Open the folder (Real-time-track) and execute "npx expo install"
 $ Execute the project with "npx expo start"
 ```
