@@ -15,7 +15,7 @@ Before you execute this project, verify your development environment
 After ensuring that the requirements mentioned above are met, follow the steps below to execute the project.
 
 ```
-$ Clone this repository: git clone [this](https://github.com/EduardoBezerraDev/Real-time-track.git)
+$ Clone this repository: git clone [[this]()](https://github.com/EduardoBezerraDev/Real-time-track)
 $ Open the folder (Real-time-track) and execute "yarn install"
 $ Execute the project with "npx expo start"
 ```
