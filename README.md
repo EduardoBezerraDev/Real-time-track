@@ -6,7 +6,7 @@ This project has an objective to show your location in real time
 
 Before you execute this project, verify your development environment
 
-* [Expo]([https://github.com/EduardoBezerraDev/Real-time-track.git](https://reactnative.dev/)) 
+* [React Native]([https://github.com/EduardoBezerraDev/Real-time-track.git](https://reactnative.dev/)) 
 * [Expo]([https://github.com/EduardoBezerraDev/Real-time-track.git](https://docs.expo.dev/)) 
 * You can use either VSCode or any other editor
 
