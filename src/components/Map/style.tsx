@@ -2,14 +2,14 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
+        height: '100%',
         backgroundColor: 'whitesmoke',
         alignItems: 'center',
         justifyContent: 'center',
     },
     mapView: {
-        flex: 1,
-        width: '100%'
+        width: '100%',
+        flex: 1
     }
 });
 export { styles }
