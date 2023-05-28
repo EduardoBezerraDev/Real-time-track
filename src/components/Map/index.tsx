@@ -41,7 +41,7 @@ export default function Map() {
         setAddress(firstFeature.place_name);
       }
     } catch (error) {
-      console.log('Erro ao converter latitude e longitude em endereço: ', error);
+      console.log('Error converting latitude and longitude to address: ', error);
     }
   };
 
