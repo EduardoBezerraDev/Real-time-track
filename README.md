@@ -17,5 +17,6 @@ After ensuring that the requirements mentioned above are met, follow the steps b
 ```
 $ Clone this repository: git clone https://github.com/EduardoBezerraDev/Real-time-track.git
 $ Open the folder (Real-time-track) and execute "npx expo install"
+$ Add your Mapbox token (https://www.mapbox.com/) to the 'token' constant in the 'Map' component.
 $ Execute the project with "npx expo start"
 ```
