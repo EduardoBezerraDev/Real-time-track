@@ -16,7 +16,7 @@ export default function Map() {
   const [location, setLocation] = useState<LocationObject | null>(null)
   const [address, setAddress] = useState<string>('')
   const mapRef = useRef<MapView>(null)
-  const token = 'pk.eyJ1IjoieW9raW1hcnVoIiwiYSI6ImNrazhwNzdqMjA4enIydXM4dWt4dXR3engifQ.Q9o3uVia0MBc7E3IHA124g'
+  const token = ''
   async function requestLocationPermissions() {
     const { granted } = await requestForegroundPermissionsAsync();
     if (granted) {
